@@ -7,7 +7,7 @@
 ## **Team Members:** <br>
 David Kenny @djk42296 <br>
 Sahasra Manchikanti @sahasra-22 <br>
-Grant Harris <br>
+Grant Harris @gaharris13 <br>
 Joseph Enck <br>
 Sofia Drescher <br>
 
